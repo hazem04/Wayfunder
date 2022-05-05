@@ -1,2 +1,0 @@
-# Wayfunder
-Crowdfunding platform
